@@ -1,1 +1,3 @@
-this is the practice repository# practice
+# practice
+this is the practice repository 
+Author:Ritul Singhai
